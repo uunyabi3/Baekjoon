@@ -119,7 +119,7 @@ int main()
     int n, m;
     scanf("%d %d", &n, &m);
 
-    deque deq = {};
+    deque deq;
 
     int count = 0;
     int count_left = 0;
